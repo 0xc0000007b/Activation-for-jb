@@ -1,0 +1,6 @@
+
+
+install IDE, paste file javaagent C:\Program Files\JetBrains\WebStorm 2022.1.2\bin\webstorm64.exe.vmoptions write string in below
+-javaagent:C:\path\to\ja-netfilter.jar=jetbrains
+
+3. paste key to key-area.
